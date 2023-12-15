@@ -1,0 +1,7 @@
+D:\Mphasis\SQL SERVER\15-12-2023\Assignment7\Assignment7\bin\Debug\Assignment7.exe.config
+D:\Mphasis\SQL SERVER\15-12-2023\Assignment7\Assignment7\bin\Debug\Assignment7.exe
+D:\Mphasis\SQL SERVER\15-12-2023\Assignment7\Assignment7\bin\Debug\Assignment7.pdb
+D:\Mphasis\SQL SERVER\15-12-2023\Assignment7\Assignment7\obj\Debug\Assignment7.csproj.AssemblyReference.cache
+D:\Mphasis\SQL SERVER\15-12-2023\Assignment7\Assignment7\obj\Debug\Assignment7.csproj.CoreCompileInputs.cache
+D:\Mphasis\SQL SERVER\15-12-2023\Assignment7\Assignment7\obj\Debug\Assignment7.exe
+D:\Mphasis\SQL SERVER\15-12-2023\Assignment7\Assignment7\obj\Debug\Assignment7.pdb
